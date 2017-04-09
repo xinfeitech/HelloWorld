@@ -2,10 +2,13 @@ package com.example.helloworld;
 
 import org.junit.Test;
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> github/master
 import static org.junit.Assert.*;
 
 /**
